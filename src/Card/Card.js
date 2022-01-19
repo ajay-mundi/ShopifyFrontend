@@ -50,6 +50,10 @@ const likeImage = (event, props) => {
 export const CardMod = styled(Card)`
   width: 50vw;
   margin: 5vh;
+  @media (max-width: 768px) {
+    margin-top: 2vh;
+    width: 90vw;
+  }
 `;
 
 export const CardMediaMod = styled(CardMedia)`

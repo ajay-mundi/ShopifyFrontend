@@ -10,19 +10,7 @@ The site is deployed on Netlify and can be found through this link: https://spac
 
 ### Quick Site Demo
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=c6as7jCp68I" type="video/mp4">
-</video>
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=c6as7jCp68I" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></ifra
-
 https://user-images.githubusercontent.com/65574040/150238392-a5d93b8d-b31e-4358-96c0-a35893137ce5.mp4
-
-me>
 
 ### Required Features
 

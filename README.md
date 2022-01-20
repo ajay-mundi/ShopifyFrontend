@@ -12,11 +12,11 @@ https://user-images.githubusercontent.com/65574040/150238392-a5d93b8d-b31e-4358-
 
 ### Required Features
 
-All required features oulined in the Frontend Challenge Desciption were met namely:
+All required features outlined in the Frontend Challenge Desciption were met namely:
 
 - Utilize NASA APOD API
 - Each image displayed on a card including title, date of capture and like button
-  -Each image can be liked and unliked
+- Each image can be liked and unliked
 
 ### Additional Features
 
@@ -27,8 +27,8 @@ Additional Features were added to the site to improve user experience and provid
 
 ### Usability Considerations
 
-- Clear colour contrast, large font size and aria labels to be as accessible as possible
-- Tooltips on all buttons to improve user understanding
+- Strong colour contrast, large font size and aria labels to be as accessible as possible
+- Tooltips on all buttons to improve site clarity
 
 ## Future Development
 

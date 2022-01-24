@@ -1,6 +1,6 @@
 # Spacetagram Shopify Frontend Challenge 2022
 
-#UPDATE JANUARY 24, 2022
+# UPDATE JANUARY 24, 2022
 ### NASA APOD API appears to be down. Please feel free to clone the repo locally and run it that way if necessary.
 ## How to Access the Site
 
